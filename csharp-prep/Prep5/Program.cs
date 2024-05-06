@@ -38,7 +38,7 @@ class Program
 
         static int SquareNumber(int UserNumber)
         {
-            int square = UserNumber * UserNumber
+            int square = UserNumber * UserNumber;
             return square; 
         }
 
