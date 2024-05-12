@@ -11,4 +11,4 @@ public class Entry
         Console.WriteLine("Entry: " + _entryText);
         Console.WriteLine();
     }
-}
+}.
